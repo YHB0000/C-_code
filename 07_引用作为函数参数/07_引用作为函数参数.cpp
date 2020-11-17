@@ -24,7 +24,7 @@ struct MyStruct
     int age;
 };
 
-void Prints1(struct MyStruct s)
+void Prints1(struct MyStruct s)                 // 存在拷贝动作，不提倡（特别是项目内容操作多时）
 {
     cout << s.name << " , " << s.age << endl;
 }

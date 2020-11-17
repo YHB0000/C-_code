@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_引用的本质", "06_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_引用作为函数的返回值", "08_引用作为函数的返回值\08_引用作为函数的返回值.vcxproj", "{B1473AC8-32E8-46A4-A7D8-756D8AE68786}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_指针引用", "09_指针引用\09_指针引用.vcxproj", "{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{B1473AC8-32E8-46A4-A7D8-756D8AE68786}.Release|x64.Build.0 = Release|x64
 		{B1473AC8-32E8-46A4-A7D8-756D8AE68786}.Release|x86.ActiveCfg = Release|Win32
 		{B1473AC8-32E8-46A4-A7D8-756D8AE68786}.Release|x86.Build.0 = Release|Win32
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Debug|x64.ActiveCfg = Debug|x64
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Debug|x64.Build.0 = Debug|x64
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Debug|x86.ActiveCfg = Debug|Win32
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Debug|x86.Build.0 = Debug|Win32
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Release|x64.ActiveCfg = Release|x64
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Release|x64.Build.0 = Release|x64
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Release|x86.ActiveCfg = Release|Win32
+		{F09D5F66-7D39-49E5-B072-CE2EB1C8D439}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

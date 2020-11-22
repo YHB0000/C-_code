@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_函数重载", "03_函�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_函数重载和函数指针", "04_函数重载和函数指针\04_函数重载和函数指针.vcxproj", "{D7349AB0-30DC-464F-9169-518F6FDFF126}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_类的基本概念", "05_类的基本概念\05_类的基本概念.vcxproj", "{4BAA1787-37CD-4749-9882-66793A1476E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{D7349AB0-30DC-464F-9169-518F6FDFF126}.Release|x64.Build.0 = Release|x64
 		{D7349AB0-30DC-464F-9169-518F6FDFF126}.Release|x86.ActiveCfg = Release|Win32
 		{D7349AB0-30DC-464F-9169-518F6FDFF126}.Release|x86.Build.0 = Release|Win32
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Debug|x64.ActiveCfg = Debug|x64
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Debug|x64.Build.0 = Debug|x64
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Debug|x86.Build.0 = Debug|Win32
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Release|x64.ActiveCfg = Release|x64
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Release|x64.Build.0 = Release|x64
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Release|x86.ActiveCfg = Release|Win32
+		{4BAA1787-37CD-4749-9882-66793A1476E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

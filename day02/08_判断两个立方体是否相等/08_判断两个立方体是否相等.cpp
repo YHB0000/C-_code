@@ -13,6 +13,21 @@ public:
 		m_c = c;
 	}
 
+	int get_a()
+	{
+		return m_a;
+	}
+
+	int get_b()
+	{
+		return m_b;
+	}
+
+	int get_c()
+	{
+		return m_c;
+	}
+
 	void getArea()
 	{
 		cout << "Area: " << (m_a* m_b)*2+ (m_a * m_c) * 2+ (m_c * m_b) * 2 << endl;
@@ -23,7 +38,28 @@ public:
 		cout << "Volume: " << m_a*m_b*m_c << endl;
 	}
 
+	void show()
+	{
+		cout << "m_a" << m_a << endl;
+		cout << "m_b" << m_b << endl;
+		cout << "m_c" << m_c << endl;
+	}
+
 	void jugeCube(Cube &another)
+	{
+		if (m_a == another.get_a() && m_b == another.get_b() && m_c == another.get_c())
+		{
+			//another.show();
+			cout << "The two cube is same" << endl;
+		}
+		else {
+			//another.show();
+			cout << "The two cube is not same" << endl;
+		}
+	}
+
+	// 同类之间无私处
+	void jugeCube_2(Cube& another)
 	{
 		if (m_a == another.m_a && m_b == another.m_b && m_c == another.m_c)
 		{
@@ -48,6 +84,10 @@ int main()
 	c3.setter(10, 10, 10);
 	c1.getArea();
 	c1.getVolume();
+	cout << "------------" << endl;
 	c1.jugeCube(c2);
 	c1.jugeCube(c3);
+	cout << "------------" << endl;
+	c1.jugeCube_2(c2);
+	c1.jugeCube_2(c3);
 }

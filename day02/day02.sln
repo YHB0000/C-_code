@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_函数重载和函数指
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_类的基本概念", "05_类的基本概念\05_类的基本概念.vcxproj", "{4BAA1787-37CD-4749-9882-66793A1476E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_类的封装", "06_类的封装\06_类的封装.vcxproj", "{1580FBC6-6B84-49C0-90A3-252791DDB6DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{4BAA1787-37CD-4749-9882-66793A1476E2}.Release|x64.Build.0 = Release|x64
 		{4BAA1787-37CD-4749-9882-66793A1476E2}.Release|x86.ActiveCfg = Release|Win32
 		{4BAA1787-37CD-4749-9882-66793A1476E2}.Release|x86.Build.0 = Release|Win32
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Debug|x64.ActiveCfg = Debug|x64
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Debug|x64.Build.0 = Debug|x64
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Debug|x86.Build.0 = Debug|Win32
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Release|x64.ActiveCfg = Release|x64
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Release|x64.Build.0 = Release|x64
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Release|x86.ActiveCfg = Release|Win32
+		{1580FBC6-6B84-49C0-90A3-252791DDB6DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

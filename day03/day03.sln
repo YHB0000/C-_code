@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_构造和析构", "01_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_默认的无参构造和析构函数", "02_默认的无参构造和析构函数\02_默认的无参构造和析构函数.vcxproj", "{6C3D01F2-BC1D-4563-BAF2-E9652E05044B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_拷贝构造函数", "03_拷贝构造函数\03_拷贝构造函数.vcxproj", "{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{6C3D01F2-BC1D-4563-BAF2-E9652E05044B}.Release|x64.Build.0 = Release|x64
 		{6C3D01F2-BC1D-4563-BAF2-E9652E05044B}.Release|x86.ActiveCfg = Release|Win32
 		{6C3D01F2-BC1D-4563-BAF2-E9652E05044B}.Release|x86.Build.0 = Release|Win32
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Debug|x64.ActiveCfg = Debug|x64
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Debug|x64.Build.0 = Debug|x64
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Debug|x86.Build.0 = Debug|Win32
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Release|x64.ActiveCfg = Release|x64
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Release|x64.Build.0 = Release|x64
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Release|x86.ActiveCfg = Release|Win32
+		{734DA2BA-2C83-4D6D-BF5D-3BA98123FC7E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

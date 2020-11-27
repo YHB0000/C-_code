@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_new和delete", "07_new�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_new和delete（类）", "08_new和delete（类）\08_new和delete（类）.vcxproj", "{380580F9-25F8-410D-9829-C6EE7E7E9A32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_静态成员变量和静态成员函数", "09_静态成员变量和静态成员函数\09_静态成员变量和静态成员函数.vcxproj", "{A02640FF-7334-483C-948D-D325A8971CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Release|x64.Build.0 = Release|x64
 		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Release|x86.ActiveCfg = Release|Win32
 		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Release|x86.Build.0 = Release|Win32
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Debug|x64.ActiveCfg = Debug|x64
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Debug|x64.Build.0 = Debug|x64
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Debug|x86.Build.0 = Debug|Win32
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Release|x64.ActiveCfg = Release|x64
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Release|x64.Build.0 = Release|x64
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Release|x86.ActiveCfg = Release|Win32
+		{A02640FF-7334-483C-948D-D325A8971CD4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

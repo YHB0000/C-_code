@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_构造函数的初始化
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_new和delete", "07_new和delete\07_new和delete.vcxproj", "{46F18A1C-5662-4734-8352-EA9368C7FA7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_new和delete（类）", "08_new和delete（类）\08_new和delete（类）.vcxproj", "{380580F9-25F8-410D-9829-C6EE7E7E9A32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{46F18A1C-5662-4734-8352-EA9368C7FA7A}.Release|x64.Build.0 = Release|x64
 		{46F18A1C-5662-4734-8352-EA9368C7FA7A}.Release|x86.ActiveCfg = Release|Win32
 		{46F18A1C-5662-4734-8352-EA9368C7FA7A}.Release|x86.Build.0 = Release|Win32
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Debug|x64.ActiveCfg = Debug|x64
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Debug|x64.Build.0 = Debug|x64
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Debug|x86.ActiveCfg = Debug|Win32
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Debug|x86.Build.0 = Debug|Win32
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Release|x64.ActiveCfg = Release|x64
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Release|x64.Build.0 = Release|x64
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Release|x86.ActiveCfg = Release|Win32
+		{380580F9-25F8-410D-9829-C6EE7E7E9A32}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

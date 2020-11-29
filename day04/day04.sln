@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_自定义的数组类", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_友元函数", "05_友元函数\05_友元函数.vcxproj", "{FA34A046-7813-4F57-837A-513047A8652D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_友元类和友元的关系性质", "06_友元类和友元的关系性质\06_友元类和友元的关系性质.vcxproj", "{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{FA34A046-7813-4F57-837A-513047A8652D}.Release|x64.Build.0 = Release|x64
 		{FA34A046-7813-4F57-837A-513047A8652D}.Release|x86.ActiveCfg = Release|Win32
 		{FA34A046-7813-4F57-837A-513047A8652D}.Release|x86.Build.0 = Release|Win32
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Debug|x64.ActiveCfg = Debug|x64
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Debug|x64.Build.0 = Debug|x64
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Debug|x86.Build.0 = Debug|Win32
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Release|x64.ActiveCfg = Release|x64
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Release|x64.Build.0 = Release|x64
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Release|x86.ActiveCfg = Release|Win32
+		{074C62C2-17D2-4A1D-AC93-33B59AD86A2E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

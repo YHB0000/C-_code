@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_仓库货物管理", "01
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_this指针", "02_this指针\02_this指针.vcxproj", "{EDA14904-88ED-4352-8E63-29934495E3C2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_对象返回自身", "03_对象返回自身\03_对象返回自身.vcxproj", "{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{EDA14904-88ED-4352-8E63-29934495E3C2}.Release|x64.Build.0 = Release|x64
 		{EDA14904-88ED-4352-8E63-29934495E3C2}.Release|x86.ActiveCfg = Release|Win32
 		{EDA14904-88ED-4352-8E63-29934495E3C2}.Release|x86.Build.0 = Release|Win32
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Debug|x64.ActiveCfg = Debug|x64
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Debug|x64.Build.0 = Debug|x64
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Debug|x86.Build.0 = Debug|Win32
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Release|x64.ActiveCfg = Release|x64
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Release|x64.Build.0 = Release|x64
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Release|x86.ActiveCfg = Release|Win32
+		{7B3231DA-8BC9-41BC-A1D6-D573ADD6B759}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_类的继承方式", "02
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_类的兼容性赋值原则", "03_类的兼容性赋值原则\03_类的兼容性赋值原则.vcxproj", "{F18A485F-BDFF-476C-8F16-2FE9C70CB89E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_子类中的构造和析构", "04_子类中的构造和析构\04_子类中的构造和析构.vcxproj", "{B6B8047A-EEDC-4A59-8464-27F60BF49A24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F18A485F-BDFF-476C-8F16-2FE9C70CB89E}.Release|x64.Build.0 = Release|x64
 		{F18A485F-BDFF-476C-8F16-2FE9C70CB89E}.Release|x86.ActiveCfg = Release|Win32
 		{F18A485F-BDFF-476C-8F16-2FE9C70CB89E}.Release|x86.Build.0 = Release|Win32
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Debug|x64.ActiveCfg = Debug|x64
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Debug|x64.Build.0 = Debug|x64
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Debug|x86.Build.0 = Debug|Win32
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Release|x64.ActiveCfg = Release|x64
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Release|x64.Build.0 = Release|x64
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Release|x86.ActiveCfg = Release|Win32
+		{B6B8047A-EEDC-4A59-8464-27F60BF49A24}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
